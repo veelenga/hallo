@@ -1,0 +1,12 @@
+name: hallo
+version: 0.1.0
+
+dependencies:
+  emoji:
+    github: veelenga/emoji.cr
+    branch: master
+
+authors:
+  - veelenga <velenhaupt@gmail.com>
+
+license: MIT
