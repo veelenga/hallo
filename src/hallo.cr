@@ -6,7 +6,7 @@ module Hallo
     say("Hello, world :exclamation:")
   end
 
-  def self.say(message: String)
+  def self.say(message : String)
     Emoji.emojize(message)
   end
 end
